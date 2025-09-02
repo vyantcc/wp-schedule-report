@@ -1,0 +1,5 @@
+/* Karantina Bootstrap hanya di dalam wrapper plugin */
+.bootstrap-wrapper {
+    all: revert;
+    padding: 20px;
+}
